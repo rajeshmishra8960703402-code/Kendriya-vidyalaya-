@@ -1,0 +1,6 @@
+{
+  "name": "PM Shri KV Sitapur Homework Portal",
+  "description": "Simple Daily Homework PDF, Timetable, and Exam Date Sheet Portal for PM Shri Kendriya Vidyalaya Sitapur (Class 11th).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
